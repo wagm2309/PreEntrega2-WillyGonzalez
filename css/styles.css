@@ -19,7 +19,7 @@ body{
 
 .image-nav-custom{
   Border-radius:10%;
-  margin: 1%;
+  margin: 1%; 
   padding: auto;
   object-fit: cover;
   height: 90%;
@@ -176,6 +176,11 @@ div, .social-custom{
   margin: 1%;
   color: black;
   font-size: large;
+}
+
+.comment-custom:hover{
+  transform: translateY(-2px);
+  transition: all 0.2s ease;
 }
 
 .send-custom{
