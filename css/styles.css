@@ -84,7 +84,7 @@ main{
 
 .image-custom{
   Border-radius:10%;
-  margin: 1%;
+  margin: 30px;
   padding: auto;
   object-fit: cover;
   width: 50%;
@@ -135,7 +135,7 @@ div, .social-custom{
   padding: auto;
   object-fit: cover;
   height: 30%;
-  width: 30%;
+  width: 40%;
 
 }
 
